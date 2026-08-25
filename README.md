@@ -6,8 +6,9 @@
 <p align="center">
   <b>Figure 1:</b> RadGen Model Architecture
 </p>
-
+<p align="center">
 <b>Radiology Scan Multi-Disease Classification Demo</b>
+</p>
 <p align="center">
   https://github.com/user-attachments/assets/2155fa02-49f3-4a49-8a80-4c637ecf8326
 </p>
