@@ -6,9 +6,20 @@
 <p align="center">
   <b>Figure 1:</b> RadGen Model Architecture
 </p>
+
+<p align="center">
+   <img width="1537" height="596" alt="training pipe" src="https://github.com/user-attachments/assets/3e0b3630-37ec-492c-bc33-07654dbac8c1" />
+</p>
+
+<p align="center">
+  <b>Figure 1:</b> Training Pipeline
+</p>
+
 <p align="center">
 <b>Radiology Scan Multi-Disease Classification Demo</b>
 </p>
-<p align="center">
-  https://github.com/user-attachments/assets/2155fa02-49f3-4a49-8a80-4c637ecf8326
-</p>
+
+https://github.com/user-attachments/assets/55ae9f0f-c56c-46ad-832b-672cb7f3d166
+
+
+ 
