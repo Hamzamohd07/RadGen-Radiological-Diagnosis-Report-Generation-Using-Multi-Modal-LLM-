@@ -26,5 +26,5 @@ https://github.com/user-attachments/assets/55ae9f0f-c56c-46ad-832b-672cb7f3d166
 </p>
 
 <p align="center">
-  <b>Figure 3:</b> Visualization of Grad-CAM Algorithm
+  <b>Figure 3:</b> Representation of Grad-CAM Algorithm
  
