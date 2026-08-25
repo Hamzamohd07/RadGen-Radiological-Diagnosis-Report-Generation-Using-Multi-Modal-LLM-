@@ -21,5 +21,10 @@
 
 https://github.com/user-attachments/assets/55ae9f0f-c56c-46ad-832b-672cb7f3d166
 
+<p align="center">
+   <img width="1717" height="904" alt="grad" src="https://github.com/user-attachments/assets/368a38ba-7c5d-43cb-82f3-ecb5aa83a6be" />
+</p>
 
+<p align="center">
+  <b>Figure 3:</b> Visualization of Grad-CAM Algorithm
  
